@@ -1,0 +1,19 @@
+{
+	"properties": [
+		{
+			"name": "imgur.api.url.image",
+			"type": "java.lang.String",
+			"description": "Imgur api url to view/delete image'"
+		},
+		{
+			"name": "imgur.api.url.upload",
+			"type": "java.lang.String",
+			"description": "Imgur api url to upload image'"
+		},
+		{
+			"name": "imgur.api.auth.token",
+			"type": "java.lang.String",
+			"description": "Authentication token to access imgur apis'"
+		}
+	]
+}
